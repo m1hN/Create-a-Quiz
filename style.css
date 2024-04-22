@@ -1,0 +1,64 @@
+html {
+  background: rgb(224, 198, 224);
+}
+
+h1 {
+  text-align: center;
+  margin: auto;
+  width: 800px;
+  text-align: center;
+  background: white;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  color: black;
+  border-radius: 10px;
+}
+
+.questionCss {
+  margin: auto;
+  width: 800px;
+  text-align: center;
+  background: white;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  color: black;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+img {
+  margin-left: 50px;
+}
+
+input {
+  margin-left: 100px;
+}
+
+.answerCss {
+  border: solid white;
+  background: rgb(255, 195, 255);
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-right: 75px;
+  margin-left: 50px;
+  size: 10px;
+  font-size: larger;
+  border-radius: 10px;
+}
+
+button {
+  margin-right: 700px;
+}
+
+.dichotomy {
+  margin-left: 80px;
+}
+
+.scoreCss {
+  margin-right: 600px;
+  font-size: 25px;
+}
